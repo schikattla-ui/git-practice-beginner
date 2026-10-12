@@ -4,3 +4,4 @@ passwords.txt
 node_modules/
 about.html
 !important.log
+desktop.ini
